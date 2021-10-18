@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<h3><i>Spare some time to take a look at my <a href="https://muhamadazis32.netlify.app/">portfolio</a>!</i></h3>
+<h3><i>Spare some time to take a look at my <a href="https://muhamadazis32.netlify.app/" target="_blank">portfolio</a>!</i></h3>
 
 
 # About myself
