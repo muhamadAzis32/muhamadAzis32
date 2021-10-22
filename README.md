@@ -6,7 +6,7 @@
 
 
 # About myself
-I am a student of Indorama Engineering Polytechnic, Software Engineering Technology study program.
+I am a student of Politeknik Enjinering Indorama, Software Engineering Technology study program.
 
 My full name is Muhammad Azis, so you can call me "Azis". I'm a Software Engineer who specializes in the web frontend, but also has the ability to code on the web backend.
 
