@@ -3,12 +3,12 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
 <h3><i>Spare some time to take a look at my <a href="https://muhamadazis32.vercel.app/" target="_blank">portfolio</a>!</i></h3>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-
-# About myself
 Saya adalah mahasiswa semester 6 program studi teknologi rekayasa politeknik enjinering indorama. Saat ini sedang mengikuti program Studi Independen Bersertifikat Kampus Merdeka sebagai Full Stack Web di Binar Academy. Memiliki pengalaman menjadi Freelancer Full Stack Web selama 6 bulan, saya tertarik magang di bidang Full Stack Web.
 
-# Github Statistic
+
+# ✨ Github Statistic
 
 <p align="left">
 <a href="https://github.com/muhamadAzis32">
