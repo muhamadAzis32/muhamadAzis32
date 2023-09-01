@@ -5,7 +5,7 @@
 <h3><i>Spare some time to take a look at my <a href="https://muhamadazis32.vercel.app/" target="_blank">portfolio</a>!</i></h3>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-Saya adalah mahasiswa semester 6 program studi teknologi rekayasa politeknik enjinering indorama. Saat ini sedang mengikuti program Studi Independen Bersertifikat Kampus Merdeka sebagai Full Stack Web di Binar Academy. Memiliki pengalaman menjadi Freelancer Full Stack Web selama 6 bulan, saya tertarik magang di bidang Full Stack Web.
+Saya adalah lulusan jurusan Teknologi Rekayasa Perangkat Lunak dari Politeknik Enjinering Indorama, dengan hasrat untuk berkarir sebagai Full Stack Developer. Selama kuliah, saya aktif berpartisipasi dalam organisasi, mengikuti pelatihan untuk meningkatkan skill programming, serta memiliki pengalaman magang dan pekerjaan paruh waktu sebagai Full Stack dan Front End Developer.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
