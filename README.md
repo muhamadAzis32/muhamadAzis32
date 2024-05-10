@@ -5,7 +5,7 @@
 <h3><i>Spare some time to take a look at my <a href="https://muhamadazis32.vercel.app/" target="_blank">portfolio</a>!</i></h3>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-Saya adalah lulusan jurusan Teknologi Rekayasa Perangkat Lunak dari Politeknik Enjinering Indorama, dengan hasrat untuk berkarir sebagai Full Stack Developer. Selama kuliah, saya aktif berpartisipasi dalam organisasi, mengikuti pelatihan untuk meningkatkan skill programming, serta memiliki pengalaman magang dan pekerjaan paruh waktu sebagai Full Stack dan Front End Developer.
+Saya memiliki pengalaman sebagai Full Stack Developer di PT Sinar Mulia Plasindo Lestari. Saya adalah lulusan Teknologi Rekayasa Perangkat Lunak dari Politeknik Enjinering Indorama Purwakarta, dengan komitmen kuat untuk memajukan karier saya di dunia pengembangan perangkat lunak. Selama masa kuliah, saya aktif terlibat dalam organisasi dan rajin mengikuti berbagai pelatihan untuk memperdalam kemampuan pemrograman saya. Saya juga telah mengakumulasi pengalaman berharga melalui magang serta pekerjaan paruh waktu sebagai Full Stack Developer dan Front End Developer.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
